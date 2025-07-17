@@ -1,0 +1,234 @@
+[
+    {
+        "name" : "mardel",
+        "tipo" :  "experiencia",
+        "year": "2021",
+        "lugar": "mar del plata",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/mardel.html"
+    },
+    {
+        "name" : "21",
+        "tipo" :  "experiencia",
+        "year": "2021",
+        "lugar": "pilar",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/cumple.html"
+    },
+    {
+        "name" : "pinamar '21",
+        "tipo" :  "experiencia",
+        "year": "2021",
+        "lugar": "pinamar",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/pinamar2021.html"
+    },
+    {
+        "name" : "nye '21",
+        "tipo" :  "experiencia",
+        "year": "2021",
+        "lugar": "ciudad autónoma de buenos aires",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/nye.html"
+    },
+    {
+        "name" : "male 21",
+        "tipo" :  "experiencia",
+        "year": "2020",
+        "lugar": "ciudad autónoma de buenos aires",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/male.html"
+    },
+    {
+        "name" : "rabia",
+        "tipo" :  "experiencia",
+        "year": "2020",
+        "lugar": "ciudad autónoma de buenos aires",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/rabia.html"
+    },
+    {
+        "name" : "navidad '20",
+        "tipo" :  "experiencia",
+        "year": "2020",
+        "lugar": "ciudad autónoma de buenos aires",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/navidad20.html"
+    },
+    {
+        "name" : "cuarentena",
+        "tipo" :  "experiencia",
+        "year": "2020",
+        "lugar": "ciudad autónoma de buenos aires",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/cuarentena.html"
+    },
+    {
+        "name" : "mdq",
+        "tipo" :  "experiencia",
+        "year": "2020",
+        "lugar": "mar del plata",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/mdq1.html"
+    },
+    {
+        "name" : "mdlp",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "mar de las pampas",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/mdlp.html"
+    },
+    {
+        "name" : "capilla",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "capilla del monte",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/capilla.html"
+    },
+    {
+        "name" : "brasil",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "ferrugem",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/brasil.html"
+    },
+    {
+        "name" : "pinamar '19",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "pinamar",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/pinamar2019.html"
+    },
+    {
+        "name" : "trip",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "estomba, ciudad autónoma de buenos aires",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/trip.html"
+    },
+    {
+        "name" : "lolla",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "san isidro",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/lolla.html"
+    },
+    {
+        "name" : "digweed",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "mandarine, ciudad autónoma de buenos aires",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/digweed.html"
+    },
+    {
+        "name" : "europa",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "londres, ámsterdam, venecia, roma, atenas, paris, barcelona",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/europa.html"
+    },
+    {
+        "name" : "simona",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "ciudad autónoma de buenos aires",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/simona.html"
+    },
+    {
+        "name" : "baf week '19",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "ciudad autónoma de buenos aires",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/bafweek1.html"
+    },
+    {
+        "name" : "enm '19",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "la plata",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/enm.html"
+    },
+    {
+        "name" : "19",
+        "tipo" :  "experiencia",
+        "year": "2019",
+        "lugar": "ciudad autónoma de buenos aires",
+        "medio": "analógicas",
+        "href": "../experiencias/analogicas/cumple19.html"
+    },
+    {
+        "name" : "besos",
+        "tipo" :  "retrato",
+        "year": "2019, 2020, 2021",
+        "lugar": "planeta tierra",
+        "medio": "analógicas",
+        "href": "../retratos/analogicas/besos.html"
+    },
+    {
+        "name" : "gutenberg",
+        "tipo" :  "retrato",
+        "year": "2019, 2020, 2021",
+        "lugar": "planeta tierra",
+        "medio": "analógicas",
+        "href": "../retratos/analogicas/gutenberg.html"
+    },
+    {
+        "name" : "noches",
+        "tipo" :  "retrato",
+        "year": "2019, 2020, 2021",
+        "lugar": "planeta tierra",
+        "medio": "analógicas",
+        "href": "../retratos/analogicas/noches.html"
+    },
+    {
+        "name" : "tardes",
+        "tipo" :  "retrato",
+        "year": "2019, 2020, 2021",
+        "lugar": "planeta tierra",
+        "medio": "analógicas",
+        "href": "../retratos/analogicas/tardes.html"
+    },
+    {
+        "name" : "abrazos",
+        "tipo" :  "retrato",
+        "year": "2019, 2020, 2021",
+        "lugar": "planeta tierra",
+        "medio": "analógicas",
+        "href": "../retratos/analogicas/abrazos.html"
+    },
+    {
+        "name" : "movidas",
+        "tipo" :  "retrato",
+        "year": "2019, 2020, 2021",
+        "lugar": "planeta tierra",
+        "medio": "analógicas",
+        "href": "../retratos/analogicas/movidas.html"
+    },
+    {
+        "name" : "abril",
+        "tipo" :  "proyecto",
+        "year": "2021",
+        "lugar": "ciudad autónoma de buenos aires",
+        "medio": "analógicas",
+        "href": "../proyectos/analogicas/abril.html"
+    },
+    {
+        "name" : "dang",
+        "tipo" :  "proyecto",
+        "year": "2020",
+        "lugar": "pilar",
+        "medio": "analógicas",
+        "href": "../proyectos/analogicas/dang.html"
+    }
+]
