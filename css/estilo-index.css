@@ -1,0 +1,23 @@
+/* .responsive {
+	width: 100%;
+	height: auto;
+} */
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+}
+.carousel-indicators button {
+    border-radius: 100%;
+}
+.carousel-control-prev , .carousel-control-next {
+    width: auto;
+}
+.archivo {
+    background-image: url(../img/fondo.jpg);
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
+/* .archivo:hover {
+	color: #B9E28C;
+} */
