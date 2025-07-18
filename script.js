@@ -31,7 +31,7 @@ const outputHtml = (matches) => {
       .map(
         (match) => `
         <div class="card card-body mb-1">
-          <a href="${match.href}" target="_self"> <!-- Add anchor element with href -->
+          <a href="${match.href}" target="_self">
             <h4>${match.name} (${match.year})</h4>
             <small>${match.lugar}</small>
           </a>
@@ -39,8 +39,9 @@ const outputHtml = (matches) => {
         `
       )
       .join('');
-
     matchList.innerHTML = html;
+  } else {
+    matchList.innerHTML = ''; // 👈 Limpia si no hay resultados
   }
 };
 
